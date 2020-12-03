@@ -1,2 +1,5 @@
 __MACOSX
 bias_data
+processed_data
+.DS_STORE
+.ipynb_checkpoints
